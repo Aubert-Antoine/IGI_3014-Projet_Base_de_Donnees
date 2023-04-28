@@ -1,4 +1,7 @@
 # IGI_3014 : Projet base de données
+>**Note**:
+*Simple introduction a **SQL***
+
 
 Réalisée en grouper avec :
 - [@Benoit Marchadier](https://github.com/bebe0106)
